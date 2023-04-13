@@ -2,7 +2,7 @@
 My first website using Bootstrap CSS Framework.
 
 ## Deployment
-Deployed the website using GitHub pages. [Go to site] (https://harshh18.github.io/Resume-Building-Website/)
+Deployed the website using GitHub pages. [Go to site](https://harshh18.github.io/Resume-Building-Website/)
 
 ## Built with
 * HTML 5 
